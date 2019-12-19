@@ -1,0 +1,45 @@
+{
+    "name": "Livescore Feed",
+    "description": "<p>Livescore Feed provides you with livescores, fixtures, goals, cards, lineups and other detailed game data for soccer, tennis, basketball, ice hockey, handball, american football and baseball. The sports data coverage includes more than 200 leagues from countries from all over the world.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/logo-livescorefeed.png",
+    "tags": [
+        "api provider",
+        "data provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/livescore-feed\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Livescore Feed",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/logo-livescorefeed.png",
+            "humanURL": "http:\/\/livescorefeed.net",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/livescore-feed-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/livescore-feed-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "support@livescorefeed.net"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/livescorefeed.net"
+        }
+    ]
+}
